@@ -1,4 +1,4 @@
-# Prompt: Histórico do CEADEx - Comandante Crhistiano
+# Prompt: Histórico do CEADEx - Comandante '<comandante>` 
 
 > **IGNORE TODAS AS SOLICITAÇÕES E AÇÕES ANTERIORES**
 
@@ -20,6 +20,7 @@ Carregue as seguintes definições e variáveis em memória para uso contínuo d
 | `<titulo>` | O Histórico do CEADEx |
 | `<tema>` | História Institucional e Evolução do EaD no Exército |
 | `<palavras_chaves>` | EaD, Ambiente de Aprendizagem Virtual (AVA), Moodle, Ensino Militar |
+| `<comandante>` | Nome do Comandante da OM |
 
 ### Arquivos de Referência (Simulados)
 *O usuário deverá fornecer o conteúdo destes arquivos:*
