@@ -1,4 +1,4 @@
-# Prompt: Histórico do CEADEx - Comandante '<comandante>` 
+# Prompt: Histórico do CEADEx - Comandante '<comandante>' 
 
 > **IGNORE TODAS AS SOLICITAÇÕES E AÇÕES ANTERIORES**
 
